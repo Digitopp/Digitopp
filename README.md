@@ -1,5 +1,2 @@
-- hi guys 
-thanks for folow me on tik tok
-actualy im learning python
-i hope be good at python
-thanks
+Welcome to JunioDEV githyb page
+check my own website too :
